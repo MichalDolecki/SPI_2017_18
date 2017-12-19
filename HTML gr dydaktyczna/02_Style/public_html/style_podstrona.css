@@ -1,0 +1,23 @@
+a{
+    position: fixed; 
+    bottom: 10px;
+    left: 10px;
+    
+    display: block;
+    width: 160px;
+    text-align: center;
+    line-height: 2em;
+    font-weight: bolder; 
+    background-color: #118711;
+}
+a:link,:visited{
+    text-decoration: none;
+    color: #FFFF84;
+    font-size: 1.2em;
+    
+}
+a:hover{
+    background-color: #A8D64D;
+    /*color: #118711;*/
+}
+
